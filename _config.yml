@@ -1,0 +1,28 @@
+name: gaming-investors
+favicon: null
+layout_spectrum: 0.23495283373631537
+typography_spectrum: 0.040026078931987286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6938308195676655
+  lightness: 0.534014338394627
+  saturation: 0.424371792236343
+  rhythmicContrast: 0.3970685014501214
+purpose: []
